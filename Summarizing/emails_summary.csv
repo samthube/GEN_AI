@@ -1,0 +1,29 @@
+From,To,Subject,Summary,Translated Summary
+john.doe@example.com,jane.doe@example.com,Project Update and Timeline,"Project is 75% complete, on track for end-of-month finish. Minor design challenges, draft ready by the 20th for Jane's review.","परियोजना 75% पूरी हो चुकी है, और महीने के अंत तक पूरा होने की राह पर है। कुछ छोटी-मोटी डिज़ाइन चुनौतियाँ हैं,  जेन के पुनर्निरीक्षण के लिए 20 तारीख तक प्रारूप तैयार हो जाएगा।
+
+
+(Pariyojana 75% puri ho chuki hai, aur mahine ke ant tak pura hone ki rah par hai. Kuchh chhoti-moti dizain chunautiyan hain, Jen ke punarnirīkṣaṇ ke lie 20 tarikh tak prārūp taiyar ho jayega.)"
+alice.smith@example.com,bob.jones@example.com,Meeting Reminder and Agenda,"Alice is reminding Bob of their 10 AM meeting tomorrow, outlining the agenda (project progress, budget, deadlines, and issues) and requesting notification of any materials Bob will bring.","ऐलिस बॉब को कल सुबह 10 बजे की उनकी मीटिंग की याद दिला रही है, जिसमें एजेंडा (प्रोजेक्ट की प्रगति, बजट, समय सीमा और समस्याएँ) की रूपरेखा दी गई है और बॉब द्वारा लाए जाने वाले किसी भी सामग्री की सूचना देने का अनुरोध किया गया है।
+
+
+Alternatively, a slightly more natural-sounding translation could be:
+
+ऐलिस बॉब को कल सुबह 10 बजे की मीटिंग की याद दिला रही हैं।  मीटिंग में प्रोजेक्ट की प्रगति, बजट, समय सीमा और आ रही समस्याओं पर चर्चा होगी।  ऐलिस यह भी जानना चाहती हैं कि बॉब मीटिंग में क्या-क्या सामग्री लेकर आएंगे।"
+sarah.connor@example.com,tony.stark@example.com,New Project Proposal and Strategy,"Sarah proposes a new sustainable product line project, with details in an attached document, and seeks Tony's feedback.","सारा एक नई टिकाऊ उत्पाद श्रृंखला परियोजना का प्रस्ताव करती है, जिसका विवरण संलग्न दस्तावेज़ में है, और टोनी से प्रतिक्रिया चाहती है।  (Sara ek nayi tikau utpad shreni pariyोजना ka prastav karti hai, jiska vivaran sanlagn dastavez mein hai, aur Tony se pratikriya chahti hai.)"
+mark.jones@example.com,elizabeth.bennet@example.com,Vacation Request and Plans,Mark requests vacation leave from the 15th to the 20th of next month and seeks Elizabeth's approval.  He's made arrangements for coverage.,"मार्क अगले महीने 15 तारीख से 20 तारीख तक छुट्टी का अनुरोध करता है और एलिजाबेथ से इसकी स्वीकृति चाहता है। उसने काम की व्यवस्था कर ली है।
+
+
+(Mārk agale mahine 15 tārikh se 20 tārikh tak chutti kā anurodh kartā hai aur Elizābeth se iski svīkriti chāhtā hai. Usne kām kī vyavasthā kar li hai.)"
+emily.davis@example.com,george.smith@example.com,Invoice for Services Rendered,"Invoice for September's consulting and project management services is attached, due October 30th.","सितंबर की कंसल्टिंग और प्रोजेक्ट मैनेजमेंट सेवाओं का बिल संलग्न है, जो 30 अक्टूबर को देय है।  (Sitaṃbar kī kaṃsalṭing aur projekt menejement sevāon kā bil sanlagn hai, jo 30 akṭūbar ko dey hai.)"
+james.bond@example.com,moneypenny@example.com,Mission Report and Observations,"James sent Moneypenny his detailed mission report, including analysis, event breakdown, and recommendations for future operations.  He requests review and clarification as needed.","जेम्स ने मोनीपेनी को अपनी विस्तृत मिशन रिपोर्ट भेजी, जिसमें विश्लेषण, घटनाओं का विवरण और भविष्य के संचालन के लिए सिफारिशें शामिल हैं।  वह आवश्यकतानुसार समीक्षा और स्पष्टीकरण का अनुरोध करता है।
+
+
+(James ne Moneypenny ko apni vistrit mission report bheji, jismein vishleshan, ghatnaon ka vivaran aur bhavishya ke sanchalan ke liye sifarishen shamil hain.  Wah awashyaktaanusar samiksha aur spashtikaran ka anurodh karta hai.)"
+anna.kaplan@example.com,michael.brown@example.com,Upcoming Conference and Session Details,"Anna's email confirms details for next week's Downtown Conference Center tech/innovation session (Wednesday 2 PM), inviting Michael to attend and offering to discuss further.","अन्ना के ईमेल में अगले हफ़्ते डाउनटाउन कॉन्फ़्रेंस सेंटर में होने वाले तकनीकी/नवाचार सत्र (बुधवार दोपहर 2 बजे) के विवरण की पुष्टि है, जिसमें माइकल को आमंत्रित किया गया है और आगे चर्चा करने का प्रस्ताव दिया गया है।
+
+
+(Anna ke email mein agle hafta Downtown Conference Center mein hone wale takniki/nawachaar satra (budhwar dopahar 2 baje) ke vivaran ki pushti hai, jismein Michael ko aamantriit kiya gaya hai aur aage charcha karne ka prastav diya gaya hai.)"
+lisa.green@example.com,paul.white@example.com,Team Building Activity and Invitation,Lisa invites Paul to a team-building picnic with outdoor games at the local park next Friday.  RSVP needed.,"लीसा अगले शुक्रवार को स्थानीय पार्क में बाहरी खेलों के साथ एक टीम-बिल्डिंग पिकनिक में पॉल को आमंत्रित करती है।  आरएसवीपी आवश्यक है।
+
+
+(Lisa agle shukravaar ko sthaniy park mein bahari khelon ke saath ek team-building picnic mein Paul ko aamanttrit karti hai. RSVP avashyak hai.)"
